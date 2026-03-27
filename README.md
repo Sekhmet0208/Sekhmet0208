@@ -1,147 +1,151 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Abdelrahman&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%88%20DevSecOps%20%7C%20Cybersecurity%20%7C%20AI%20%E2%96%88%E2%96%88&descSize=18&descColor=00ff41&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<!-- Terminal-style intro -->
-```
-┌──(sekhmet㉿kali)-[~/whoami]
-└─$ cat profile.txt
-
-  ╔══════════════════════════════════════════════════════════╗
-  ║  Name     : Abdelrahman                                 ║
-  ║  Alias    : Sekhmet0208                                 ║
-  ║  Role     : Software Engineer @ TotalEnergies (SG)      ║
-  ║  Focus    : DevSecOps · Full-Stack · Cloud Automation   ║
-  ║  Status   : Building secure infra across APAC           ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=SEKHMET&fontSize=80&fontColor=00ff41&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%"/>
 
 <br>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+sudo+apt+install+security-mindset;%24+python3+train_model.py+--mode+offensive)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Software+Engineer+%40+TotalEnergies+%F0%9F%8C%8F;DevSecOps+%7C+Full-Stack+%7C+Cloud+Automation+%E2%98%81%EF%B8%8F;Building+Secure+Infrastructure+Across+APAC+%F0%9F%94%90)](https://git.io/typing-svg)
 
-</div>
+<br>
 
----
-
-### `> cat /etc/skills`
-
-```yaml
-backend_&_languages:
-  - Python (Django, Automation, Scripting)
-  - C++
-  - SQL
-  - Bash / PowerShell
-  - REST API Design
-
-frontend:
-  - ReactJS / Next.js
-  - JavaScript / HTML / CSS
-
-devsecops_&_cloud:
-  - AWS / Azure / Azure DevOps
-  - Docker / Kubernetes
-  - Ansible / Terraform
-  - CI/CD (GitLab CI, Azure Pipelines)
-  - Infrastructure as Code (IaC)
-  - Security-by-Design
-
-ai_&_ml:
-  - TensorFlow / PyTorch
-  - LLMs & Prompt Engineering
-  - NLP / Computer Vision
-  - MLOps & Model Deployment
-
-cybersecurity:
-  - Penetration Testing
-  - Network Security & SIEM
-  - Vulnerability Assessment
-  - OWASP / Secure Code Review
-  - Kali Linux / Burp Suite
-
-data_&_monitoring:
-  - Power BI
-  - Prometheus / Grafana
-  - SQL Databases
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   Abdelrahman Fliou                                         │
+  │   ──────────────────                                        │
+  │   🏢  Software Engineer @ TotalEnergies · Singapore         │
+  │   🎓  MSc Computer Science · Paris 8 · Ranked 1st           │
+  │   🔐  DevSecOps · Infra Automation · Security-by-Design     │
+  │   🤖  AI/ML Enthusiast · LLMs · Applied Research            │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
 ```
 
----
-
-### `> ls tools/`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00ff41)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00ff41)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
-![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=00ff41)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=00ff41)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-0d1117?style=for-the-badge&logo=gitlab&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00ff41)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff41)
-![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=00ff41)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-0d1117?style=for-the-badge&logo=probot&logoColor=00ff41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=00ff41)
-![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=00ff41)
-![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
-
 </div>
 
----
+<br>
 
-### `> neofetch --stats`
+## `// tech_stack`
+
+<table>
+<tr><td>
+
+**`> Backend & Languages`**
+
+</td><td>
+
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff41)
+![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00ff41)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=00ff41)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=powershell&logoColor=00ff41)
+
+</td></tr>
+<tr><td>
+
+**`> Frontend`**
+
+</td><td>
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00ff41)
+![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=00ff41)
+![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=00ff41)
+
+</td></tr>
+<tr><td>
+
+**`> Cloud & DevSecOps`**
+
+</td><td>
+
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=00ff41)
+![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=00ff41)
+![Ansible](https://img.shields.io/badge/Ansible-000?style=flat-square&logo=ansible&logoColor=00ff41)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform&logoColor=00ff41)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-000?style=flat-square&logo=gitlab&logoColor=00ff41)
+
+</td></tr>
+<tr><td>
+
+**`> AI & ML`**
+
+</td><td>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=00ff41)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=00ff41)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=00ff41)
+![Claude](https://img.shields.io/badge/Claude-000?style=flat-square&logo=anthropic&logoColor=00ff41)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-000?style=flat-square&logo=probot&logoColor=00ff41)
+
+</td></tr>
+<tr><td>
+
+**`> Cybersecurity`**
+
+</td><td>
+
+![Kali Linux](https://img.shields.io/badge/Kali-000?style=flat-square&logo=kalilinux&logoColor=00ff41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=flat-square&logo=hackthebox&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=00ff41)
+![OWASP](https://img.shields.io/badge/OWASP-000?style=flat-square&logo=owasp&logoColor=00ff41)
+
+</td></tr>
+<tr><td>
+
+**`> Monitoring & Data`**
+
+</td><td>
+
+![Grafana](https://img.shields.io/badge/Grafana-000?style=flat-square&logo=grafana&logoColor=00ff41)
+![Prometheus](https://img.shields.io/badge/Prometheus-000?style=flat-square&logo=prometheus&logoColor=00ff41)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=flat-square&logo=powerbi&logoColor=00ff41)
+
+</td></tr>
+</table>
+
+<br>
+
+## `// stats`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sekhmet0208&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekhmet0208&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Sekhmet0208&show_icons=true&bg_color=000000&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=888888&ring_color=00ff41" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekhmet0208&background=000000&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=888888&currStreakNum=00ff41&dates=555555&sideNums=00ff41" width="49%"/>
 </div>
 
----
+<br>
 
-### `> cat connect.sh`
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekhmet0208&layout=compact&bg_color=000000&hide_border=true&title_color=00ff41&text_color=888888" width="40%"/>
+</div>
+
+<br>
+
+## `// connect`
 
 <div align="center">
 
-```bash
-#!/bin/bash
-# Let's connect 🔗
+<a href="https://www.linkedin.com/in/abdelrahman-fliou/">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
+</a>
+&nbsp;&nbsp;
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio_↗-000?style=for-the-badge&logo=googlechrome&logoColor=00ff41" />
+</a>
 
-LINKEDIN="https://www.linkedin.com/in/abdelrahman-fliou/"
-PORTFOLIO="https://your-portfolio.com"  # 🚧 Coming soon
+<br><br>
 
-echo "Open to collaborations on security & AI projects"
+```
+$ echo "Open to collaborations on Security, AI & DevOps projects"
+$ echo "Currently building secure infra @ TotalEnergies APAC 🇸🇬"
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/abdelrahman-fliou/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://your-portfolio.com)
-
 </div>
 
----
+<br>
 
-<div align="center">
-
-<!-- Snake animation - tu devras setup la GitHub Action pour ça -->
-<!-- https://github.com/Platane/snk -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
