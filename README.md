@@ -8,12 +8,13 @@
 ┌──(sekhmet㉿kali)-[~/whoami]
 └─$ cat profile.txt
 
-  ╔══════════════════════════════════════════════════════╗
-  ║  Name     : Abdelrahman                             ║
-  ║  Alias    : Sekhmet0208                             ║
-  ║  Focus    : DevSecOps · AI/ML · Offensive Security  ║
-  ║  Status   : Building & Breaking things              ║
-  ╚══════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════╗
+  ║  Name     : Abdelrahman                                 ║
+  ║  Alias    : Sekhmet0208                                 ║
+  ║  Role     : Software Engineer @ TotalEnergies (SG)      ║
+  ║  Focus    : DevSecOps · Full-Stack · Cloud Automation   ║
+  ║  Status   : Building secure infra across APAC           ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
 <br>
@@ -28,23 +29,42 @@
 ### `> cat /etc/skills`
 
 ```yaml
-offensive_security:
+backend_&_languages:
+  - Python (Django, Automation, Scripting)
+  - C++
+  - SQL
+  - Bash / PowerShell
+  - REST API Design
+
+frontend:
+  - ReactJS / Next.js
+  - JavaScript / HTML / CSS
+
+devsecops_&_cloud:
+  - AWS / Azure / Azure DevOps
+  - Docker / Kubernetes
+  - Ansible / Terraform
+  - CI/CD (GitLab CI, Azure Pipelines)
+  - Infrastructure as Code (IaC)
+  - Security-by-Design
+
+ai_&_ml:
+  - TensorFlow / PyTorch
+  - LLMs & Prompt Engineering
+  - NLP / Computer Vision
+  - MLOps & Model Deployment
+
+cybersecurity:
   - Penetration Testing
-  - Vulnerability Research
-  - Network Security
-  - SIEM & Threat Detection
+  - Network Security & SIEM
+  - Vulnerability Assessment
+  - OWASP / Secure Code Review
+  - Kali Linux / Burp Suite
 
-devsecops:
-  - CI/CD Pipeline Security
-  - Container Security (Docker/K8s)
-  - Infrastructure as Code
-  - Cloud Security (AWS/GCP)
-
-ai_ml:
-  - Machine Learning
-  - Deep Learning
-  - NLP
-  - AI for Security
+data_&_monitoring:
+  - Power BI
+  - Prometheus / Grafana
+  - SQL Databases
 ```
 
 ---
@@ -54,17 +74,30 @@ ai_ml:
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00ff41)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00ff41)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
+![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=00ff41)
 ![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-0d1117?style=for-the-badge&logo=gitlab&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00ff41)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00ff41)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff41)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=00ff41)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=00ff41)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
 
 </div>
 
