@@ -1,151 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=SEKHMET&fontSize=80&fontColor=00ff41&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:A855F7,50:EC4899,75:F97316,100:FACC15&height=230&section=header&text=Abdelrahman%20Fliou&fontSize=50&fontColor=fff&fontAlignY=32&desc=Software%20Engineer%20•%20DevSecOps%20•%20AI%20Enthusiast&descSize=18&descColor=ffffffbb&descAlignY=52&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Software+Engineer+%40+TotalEnergies+%F0%9F%8C%8F;DevSecOps+%7C+Full-Stack+%7C+Cloud+Automation+%E2%98%81%EF%B8%8F;Building+Secure+Infrastructure+Across+APAC+%F0%9F%94%90)](https://git.io/typing-svg)
-
-<br>
-
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   Abdelrahman Fliou                                         │
-  │   ──────────────────                                        │
-  │   🏢  Software Engineer @ TotalEnergies · Singapore         │
-  │   🎓  MSc Computer Science · Paris 8 · Ranked 1st           │
-  │   🔐  DevSecOps · Infra Automation · Security-by-Design     │
-  │   🤖  AI/ML Enthusiast · LLMs · Applied Research            │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
+<a href="https://www.linkedin.com/in/abdelrahman-fliou/"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:abdelrahmanfliou2@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br>
 
-## `// tech_stack`
+## 🧑‍💻 About Me
+
+```javascript
+const abdelrahman = {
+    location: "Singapore 🇸🇬",
+    role: "Software Engineer @ TotalEnergies",
+    education: "MSc Computer Science — Paris 8 (Ranked 1st 🏆)",
+    fields: ["DevSecOps", "Full-Stack", "Cloud Automation", "AI/ML"],
+    currentlyBuilding: "Secure infrastructure across APAC",
+    funFact: "Named after the Egyptian goddess of war 🦁"
+};
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,js,cpp,bash,powershell&perline=8" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,ansible,terraform,gitlab,linux&perline=8" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,grafana,prometheus&perline=8" />
+
+</div>
+
+<br>
 
 <table>
-<tr><td>
+<tr>
+<td width="50%">
 
-**`> Backend & Languages`**
+### 🔐 Cybersecurity
+  
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=hackthebox&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=opnsense&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-</td><td>
+</td>
+<td width="50%">
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff41)
-![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=00ff41)
-![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00ff41)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=00ff41)
-![PowerShell](https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=powershell&logoColor=00ff41)
+### 🤖 AI & LLMs
+  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-00B4D8?style=flat-square&logo=probot&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-</td></tr>
-<tr><td>
-
-**`> Frontend`**
-
-</td><td>
-
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00ff41)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00ff41)
-![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=00ff41)
-
-</td></tr>
-<tr><td>
-
-**`> Cloud & DevSecOps`**
-
-</td><td>
-
-![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=00ff41)
-![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00ff41)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=00ff41)
-![Ansible](https://img.shields.io/badge/Ansible-000?style=flat-square&logo=ansible&logoColor=00ff41)
-![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform&logoColor=00ff41)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-000?style=flat-square&logo=gitlab&logoColor=00ff41)
-
-</td></tr>
-<tr><td>
-
-**`> AI & ML`**
-
-</td><td>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=00ff41)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=00ff41)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=00ff41)
-![Claude](https://img.shields.io/badge/Claude-000?style=flat-square&logo=anthropic&logoColor=00ff41)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-000?style=flat-square&logo=probot&logoColor=00ff41)
-
-</td></tr>
-<tr><td>
-
-**`> Cybersecurity`**
-
-</td><td>
-
-![Kali Linux](https://img.shields.io/badge/Kali-000?style=flat-square&logo=kalilinux&logoColor=00ff41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=flat-square&logo=hackthebox&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=00ff41)
-![OWASP](https://img.shields.io/badge/OWASP-000?style=flat-square&logo=owasp&logoColor=00ff41)
-
-</td></tr>
-<tr><td>
-
-**`> Monitoring & Data`**
-
-</td><td>
-
-![Grafana](https://img.shields.io/badge/Grafana-000?style=flat-square&logo=grafana&logoColor=00ff41)
-![Prometheus](https://img.shields.io/badge/Prometheus-000?style=flat-square&logo=prometheus&logoColor=00ff41)
-![Power BI](https://img.shields.io/badge/Power_BI-000?style=flat-square&logo=powerbi&logoColor=00ff41)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br>
 
-## `// stats`
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sekhmet0208&show_icons=true&bg_color=000000&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=888888&ring_color=00ff41" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekhmet0208&background=000000&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=888888&currStreakNum=00ff41&dates=555555&sideNums=00ff41" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sekhmet0208&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=A855F7&title_color=EC4899&text_color=c9d1d9&ring_color=6C63FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekhmet0208&background=0d1117&hide_border=true&ring=6C63FF&fire=EC4899&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=EC4899&dates=555555&sideNums=A855F7" width="49%"/>
+
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekhmet0208&layout=compact&bg_color=000000&hide_border=true&title_color=00ff41&text_color=888888" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekhmet0208&layout=compact&bg_color=0d1117&hide_border=true&title_color=EC4899&text_color=c9d1d9" width="42%"/>
 </div>
 
 <br>
 
-## `// connect`
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sekhmet0208&bg_color=0d1117&color=A855F7&line=EC4899&point=FACC15&area=true&area_color=6C63FF&hide_border=true" width="95%"/>
+</div>
+
+<br>
+
+## 🎯 What I'm Up To
+
+- 🔭 Building **automation frameworks** for network & security infra at TotalEnergies APAC
+- 🌱 Diving deeper into **offensive security** and **AI-powered threat detection**
+- 🚀 Working on my **portfolio** — stay tuned
+- 💬 Ask me about **Python, DevSecOps, Cloud Security, or AI**
+
+<br>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdelrahman-fliou/">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
-</a>
-&nbsp;&nbsp;
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio_↗-000?style=for-the-badge&logo=googlechrome&logoColor=00ff41" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Sekhmet0208&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-```
-$ echo "Open to collaborations on Security, AI & DevOps projects"
-$ echo "Currently building secure infra @ TotalEnergies APAC 🇸🇬"
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,25:F97316,50:EC4899,75:A855F7,100:6C63FF&height=120&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
